@@ -323,6 +323,7 @@ relative_links:
   collections:         true
 
 titles_from_headings:
+  enabled:             false
   strip_title:         false
   collections:         true
   
