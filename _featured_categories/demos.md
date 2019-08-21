@@ -1,7 +1,7 @@
 ---
 layout: list
 title: Demos
-slug: demo
+slug: demos
 menu: true
 order: 1
 description: >
