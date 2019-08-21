@@ -10,4 +10,5 @@
  *                 \/__/                  \/___/
  *
  * Powered by Hydejack v8.5.1 <https://hydejack.com/>
+ * Content provided by iDEX Team <https://www.idexdavis.com/>
  */
