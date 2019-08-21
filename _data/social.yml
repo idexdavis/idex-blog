@@ -160,6 +160,10 @@ linkedin:
   name: LinkedIn
   icon: icon-linkedin2
   prepend: "https://www.linkedin.com/in/"
+linkedincomp:
+  name: LinkedIn
+  icon: icon-linkedin2
+  prepend: "https://www.linkedin.com/company/"
 lastfm:
   name: Last.fm
   icon: icon-lastfm
