@@ -2,8 +2,6 @@
 layout: list
 title: Tech News
 slug: news
-menu: true
-order: 2
 description: >
   This page is for tech news as suggested by title, also demonstrate how to switch sidebar background.
 accent_color: rgb(38,139,210)
