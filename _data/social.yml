@@ -207,6 +207,10 @@ keybase:
   name: Keybase
   icon: icon-key
   prepend: "https://keybase.io/"
+website:
+  name: Organization Website
+  icon: icon-earth
+  prepend: "https://"
 download:
   name: Download
   icon: icon-box-add
