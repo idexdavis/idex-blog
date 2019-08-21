@@ -51,10 +51,10 @@ author:
 menu:
   - title:             Demos
     url:               /demos/
-  # - title:             Hyde
-  #   url:               /hyde/
-  # - title:             Documentation
-  #   url:               /docs/
+  - title:             Tech News
+    url:               /news/
+  - title:             Tutorials
+    url:               /tutorials/
   - title:             About
     url:               /about/
 
