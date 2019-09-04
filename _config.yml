@@ -49,12 +49,14 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Demos
-    url:               /demos/
-  - title:             Tech News
-    url:               /news/
   - title:             Tutorials
     url:               /tutorials/
+  - title:             Activities
+    url:               /activities/
+  - title:             Tech News
+    url:               /news/
+  - title:             Others
+    url:               /others/
   - title:             About
     url:               /about/
 
