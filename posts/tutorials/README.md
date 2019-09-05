@@ -5,6 +5,8 @@ description: >
 permalink: /tutorials/
 ---
 
-## Hello, World
+# How to Code?
 
 [UWP Development](/uwp/)
+
+# How to Design?
