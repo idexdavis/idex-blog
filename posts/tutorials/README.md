@@ -5,9 +5,9 @@ description: >
 permalink: /tutorials/
 ---
 
-# Learn To Code!
+## Learn To Code!
 
 [Universal Windows Platform Development](/uwp/) --- Develop for *Windows* with latest technology
 
 
-# Learn To Design!
+## Learn To Design!
