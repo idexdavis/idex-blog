@@ -11,7 +11,7 @@ description: >
 
 * XAML Control Gallery
 
-  ![](/Users/yanyibo/Documents/GitHub/idex-blog/posts/others/img/useful-app-uwp-develop/1.jpg)
+  ![](/posts/others/img/useful-app-uwp-develop/1.jpg)
 
   This is a demonstration app for all native controls provided by UWP and Windows.
 
@@ -19,7 +19,7 @@ description: >
 
 * Windows Community Toolkit Sample App
 
-  ![](/Users/yanyibo/Documents/GitHub/idex-blog/posts/others/img/useful-app-uwp-develop/2.jpg)
+  ![](/posts/others/img/useful-app-uwp-develop/2.jpg)
 
   This is a demonstration app for other controls and functionality built by Microsoft team but haven't been included in Windows as native controls. Community Toolkit provided lots of amazing utilities, transitions and animations.
 
@@ -27,7 +27,7 @@ description: >
 
 * Character Map UWP
 
-  ![](/Users/yanyibo/Documents/GitHub/idex-blog/posts/others/img/useful-app-uwp-develop/3.jpg)
+  ![](/posts/others/img/useful-app-uwp-develop/3.jpg)
 
   It provides font preview. You can easily access the XAML code of certain symbol using this app and get the preview before you put it into Visual Studio.
 
@@ -35,7 +35,7 @@ description: >
 
 * URI Launcher
 
-  ![](/Users/yanyibo/Documents/GitHub/idex-blog/posts/others/img/useful-app-uwp-develop/4.jpg)
+  ![](/posts/others/img/useful-app-uwp-develop/4.jpg)
 
   A app listing out some common-use URI routing link for UWP. You can also test the URI link in this app.
 
@@ -43,7 +43,7 @@ description: >
 
 * Notifications Visualizer
 
-  ![](/Users/yanyibo/Documents/GitHub/idex-blog/posts/others/img/useful-app-uwp-develop/5.jpg)
+  ![](/posts/others/img/useful-app-uwp-develop/5.jpg)
 
   It can help you to edit the toast style and content written by XML with live preview on the right side.
 
@@ -51,7 +51,7 @@ description: >
 
 * XAML Studio
 
-  ![](/Users/yanyibo/Documents/GitHub/idex-blog/posts/others/img/useful-app-uwp-develop/6.jpg)
+  ![](/posts/others/img/useful-app-uwp-develop/6.jpg)
 
   This is a prototype design app for UWP. It supports live preview of XAML code without Visual Studio. It also supports data binding preview.
 
@@ -59,6 +59,6 @@ description: >
 
 * Fluent XAML Theme Editor
 
-  ![](/Users/yanyibo/Documents/GitHub/idex-blog/posts/others/img/useful-app-uwp-develop/7.jpg)
+  ![](/posts/others/img/useful-app-uwp-develop/7.jpg)
 
   This app help you easily set up color set and export as XAML files which can be useful for your entire UWP development process. You can also see the preview of selected color set.
