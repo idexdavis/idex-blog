@@ -47,5 +47,8 @@ I have written this article before, [here](https://blog.idexdavis.com/posts/othe
 
 ### The Installation of Visual Studio
 
-* You can download the installation app of Visual Studio right through the [official website](https://visualstudio.microsoft.com).
-* After finishing download, run the installation app and you will see the prom
+* You can download the installation app of Visual Studio right through the [official website](https://visualstudio.microsoft.com). Then click download Visual Studio IDE.
+* After finishing download, run the installation app and you will follow the instruction to install Visual Studio Installer first.
+* After installing the Visual Studio Installer, you may start to install Visual Studio. Find out the Visual Studio 2019 Community under the `Available` tab and click the install button,
+* Make sure the `Universal Windows Platform Development` is selected and click the install button locates at the bottom right corner. Then waiting!
+* After finishing downloading and installing, you will have basically a environment for UWP development. It's so easy!
