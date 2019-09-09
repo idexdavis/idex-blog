@@ -7,7 +7,7 @@ description: >
 
 Web Spider is a powerful and useful tool, and after you learn how to use it, you will find ~~people who don't know how to use Web Spider lives a life of a caveman.~~ It makes your life easier *(especially for statisticians).* Also, machine learning needs a massive amount of data to support. You can easily find and organize a considerable amount of data for your machine learning tricks if you use web spider well.
 
-> ####Let's assume that you are doing a research on how many films can earn more than 15% of its budget 
+> #### Let's assume that you are doing a research on how many films can earn more than 15% of its budget 
 >
 > * **If you know nothing about Web Spider**
 >
