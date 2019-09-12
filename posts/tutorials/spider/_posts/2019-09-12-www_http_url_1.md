@@ -2,7 +2,7 @@
 layout: post
 title: What are the World Wide Web, HTTP, and URL #1
 description: >
-	This is a simple introduction of the World Wide Web, HTTP, and URL
+  This is a simple introduction of the World Wide Web, HTTP, and URL
 ---
 
 > Every time, when you want to find something on google, youl type [https://www.google.com](https://www.google.com/) In that bar. You can find the **URL** of Google is **https**://**www**.google.com But what's the meaning of these series of things?
