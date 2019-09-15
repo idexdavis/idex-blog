@@ -6,10 +6,11 @@ description: >
 permalink: /tutorials/
 ---
 
-### Learn To Code!
+## Learn To Code!
 
 [Universal Windows Platform Development](/uwp/) --- Develop for *Windows* with latest technology
 
 [Beginner's Tutorial for Web-Spider](/spider/) --- Access the data from website with a *ease*
 
-### Learn To Design!
+## Learn To Design!
+
